@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="16px" viewBox="0 0 10 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="English-design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="21-BigMac" transform="translate(-645.000000, -1078.000000)" fill="#DB0E0E">
+            <g id="Content" transform="translate(0.000000, 193.000000)">
+                <g id="Ingredients" transform="translate(152.500000, 549.000000)">
+                    <g id="Slider" transform="translate(474.000000, 319.000000)">
+                        <g id="Arrow" transform="translate(26.500000, 24.500000) rotate(-180.000000) translate(-26.500000, -24.500000) translate(18.500000, 17.000000)">
+                            <path d="M3.5,10.389575 L12.5,10.389575 C12.9142136,10.389575 13.25,10.7253615 13.25,11.139575 L13.25,11.5681465 C13.25,11.98236 12.9142136,12.3181465 12.5,12.3181465 L3.5,12.3181465 C3.08578644,12.3181465 2.75,11.98236 2.75,11.5681465 L2.75,11.139575 C2.75,10.7253615 3.08578644,10.389575 3.5,10.389575 Z M12.0714286,1.81814648 L12.4990036,1.81814648 C12.9132172,1.81814648 13.2490036,2.15393291 13.2490036,2.56814648 C13.2490033,2.56889304 13.2490033,2.56889304 13.2490021,2.5696396 L13.2295476,12.3416529 L12.0608086,12.3251019 C11.6507776,12.3192952 11.3214286,11.9852492 11.3214286,11.5751771 L11.3214286,2.56814648 C11.3214286,2.15393291 11.657215,1.81814648 12.0714286,1.81814648 Z" id="Chevron-Down-Grey-Small" stroke="#DB0E0E" stroke-width="0.5" transform="translate(8.000000, 7.078121) rotate(-45.000000) translate(-8.000000, -7.078121) "></path>
+                            <polygon id="Path-2" points="13.2843903 8.95155967 15.3702058 7.07812054 13.2843903 5.29164756 12.4045686 6.15675986"></polygon>
+                            <polygon id="Path-3" points="9.2176789 2.02620566 10.5620393 2.68245566 10.0396394 1.54750693 8.25771797 0 7.71725166 1.36424205e-12 7.53939521 0.931906345"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

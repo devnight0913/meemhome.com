@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Proton</ShortName>
+    <Description></Description>
+    <Url type="text/html" template="https://proton-s.net/results?search_query={searchTerms}" method="GET" />
+    <Image width="16" height="16">https://proton-s.net/favicon-16x16.png</Image>
+    <OutputEncoding>UTF-8</OutputEncoding>
+    <InputEncoding>UTF-8</InputEncoding>
+    <SearchForm>https://proton-s.net/</SearchForm>
+</OpenSearchDescription>

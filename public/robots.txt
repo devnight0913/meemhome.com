@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://proton-s.net/sitemaps/sitemap_index.xml
