@@ -1,5 +1,4 @@
 import { encrypt, decrypt } from '@/services/utils';
-
 export const ShoppingCart = {
   add,
   remove,
